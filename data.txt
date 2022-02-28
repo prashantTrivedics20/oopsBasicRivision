@@ -1,0 +1,4 @@
+#Mon Jan 31 03:16:50 IST 2022
+uname=prashant
+pass=0000
+url=localhost\:3306/myDb
